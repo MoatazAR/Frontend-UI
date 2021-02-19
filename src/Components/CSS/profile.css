@@ -1,0 +1,46 @@
+#maindiv{
+    height: 100vh;
+    width: 100%;
+}
+#div1{
+    height: 25vh;
+    background-color: white;
+    overflow: auto;
+}
+#div2{
+    height: 75vh;
+    background-image: linear-gradient(rgba(249, 244, 174, 1),rgba(246, 196, 132, 1));
+    
+}
+#brain{
+    margin-top: 1%;
+    width:90px;
+    height: 90px;
+}
+.topIcons{
+    width: 40px;
+    height: 40px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.bottomIcons{
+    margin-top: -2%;
+    width: 40px;
+    height: 40px;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.inputFields{
+    margin-top: 0%;
+    margin-bottom: 2%;
+    border-width: 10px;
+    height: 25px;
+    width: 30%;
+    border:solid 1px #ccc;
+    border-radius: 15px;
+    font-family: Helvetica Neue;
+    font-weight: bold;
+}
+#nameValue{
+    margin-top: 7%;
+}

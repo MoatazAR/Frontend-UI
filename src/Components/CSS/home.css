@@ -1,0 +1,22 @@
+#pageDiv{
+    margin-bottom: 10%;
+}
+#saundername{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: Gill Sans;
+    letter-spacing: 6px;
+}
+.icon{
+    width: 10%;
+    height: 10%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#plantid{
+    
+    margin-bottom: 10%;
+}
+#lightbulb{
+    margin-bottom: -10%;
+}

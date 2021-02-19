@@ -1,0 +1,10 @@
+
+{
+    "profiles" : 
+    [
+        {"name": "Naruto", "imageurl": "../photos/naruto.png", "tags" : ["ramen", "rasengan", "sasuke"]},
+        {"name": "Sasuke", "imageurl": "../photos/sasuke.png", "tags" : ["revenge", "sharingan", "uchiha"]},
+        {"name": "Kakashi", "imageurl": "../photos/kakashi.png", "tags" : ["makeout paradise", "chidori", "kamui"]},
+        {"name": "Tobi", "imageurl": "../photos/tobi.png", "tags" : ["dango", "sharingan", "rin"]}
+    ]
+}
